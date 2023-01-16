@@ -35,7 +35,7 @@ You can look at [various](https://www.freecodecamp.org/news/how-to-build-a-hacke
 
 - Please clone this repo. You can click on "Use this template" button to do so.
 - Please complete the tasks.
-- Once done, please share your repo with us on [people@vydl.com](mailto:people@cookstro.com).
+- Once done, please share your repo with us on [dev@khelkhelo.in](mailto:dev@khelkhelo.in).
 - We will contact you back within 48 hours.
 - If you have any queries, please do contact us. We will try to answer your queries as soon as possible.
 
